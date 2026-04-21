@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+body{
+    font-family: Verdana, DejaVu Sans,sans-serif;
+}
+.odd{
+    background-color: plum;
+}
+#one{
+    color: blue;
+    font-size: 26px;
+}
+#four{
+    background-color: greenyellow;
+    font-size: 28px;
+    font-weight: 900;
+}
+#three{
+    font-size: 44px;
+    font-weight: 500;
+}
